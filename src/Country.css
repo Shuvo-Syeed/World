@@ -1,0 +1,16 @@
+.country{
+  
+  margin:20px;
+  border-radius: 10px;
+  padding:10px; 
+    background: rgba(110, 66, 66, 0.1);
+      backdrop-filter: blur(15px);
+      -webkit-backdrop-filter: blur(15px);
+      border: 1px solid rgba(255, 255, 255, 0.3);
+
+      color: rgb(0, 0, 0);
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 1.00); 
+}
+.visited{
+    background: #ffd1d1;;
+}
