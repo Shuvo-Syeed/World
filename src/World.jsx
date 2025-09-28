@@ -1,10 +1,11 @@
 import React from 'react'
 import Countries from './Countries'
+import './app.css'
 
 
 const World = () => {
   return (
-    <div >
+    <div style={{textAlign:'center'}}>
       <h1>World Tour</h1>
       <Countries />
     </div>
